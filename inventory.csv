@@ -1,0 +1,4 @@
+type,name,url,2fa,exposure
+email,main,,,check HIBP
+domain,personal,,,whois
+social,x,,,handle
